@@ -2,7 +2,7 @@
 
 A collection of nostr relays
 
-My nostr id `146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd`
+My nostr id `146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd` ([nostr.rocks](https://nostr.rocks/146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd) | [astral.ninja](https://astral.ninja/146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd))
 
 
 ## Relays for Nostr
