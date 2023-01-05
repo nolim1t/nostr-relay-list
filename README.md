@@ -18,5 +18,6 @@ wss://nostr-relay.wlvs.space
 wss://nostr.bitcoiner.social
 wss://nostr.onsats.org
 wss://nostr.semisol.dev
+wss://nostr.swiss-enigma.ch
 ```
 
